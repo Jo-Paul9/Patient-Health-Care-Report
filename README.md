@@ -9,6 +9,8 @@ The dashboard enables healthcare administrators and decision-makers to identify 
 ---
 
 ## Dashboard Snapshot
+
+```md
 ![Dashboard Snapshot](./images/patient-healthcare-dashboard.png)
 ```
 

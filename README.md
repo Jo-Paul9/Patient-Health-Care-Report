@@ -11,6 +11,10 @@ The dashboard enables healthcare administrators and decision-makers to identify 
 ## Dashboard Snapshot
 
 ### 🔹 Overview Dashboard
+
+> Add your dashboard screenshot here
+
+```
 ![Overview Dashboard](./images/patient-healthcare-dashboard.png)
 ```
 

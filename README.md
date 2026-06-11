@@ -1,6 +1,6 @@
-# 🏥 Patients Health Care Report Dashboard
+# Patients Health Care Report Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents a comprehensive **Patient Health Care Analytics Dashboard** developed to monitor patient visits, appointment types, demographics, referrals, wait times, satisfaction levels, and operational performance metrics.
 
@@ -8,7 +8,7 @@ The dashboard enables healthcare administrators and decision-makers to identify 
 
 ---
 
-## 📊 Dashboard Snapshot
+## Dashboard Snapshot
 
 > Add your dashboard screenshot here
 
@@ -18,7 +18,7 @@ The dashboard enables healthcare administrators and decision-makers to identify 
 
 ---
 
-# 🎯 Business Objective
+# Business Objective
 
 The primary objective of this dashboard is to:
 
@@ -32,7 +32,7 @@ The primary objective of this dashboard is to:
 
 ---
 
-# 📈 Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
 | KPI | Value |
 |------|--------|
@@ -47,7 +47,7 @@ The primary objective of this dashboard is to:
 
 ---
 
-# 🔍 Key Business Insights
+# Key Business Insights
 
 ## 1. Strong Patient Volume
 
@@ -162,7 +162,7 @@ Long wait times may contribute to:
 
 ---
 
-# ⚙️ Operational Insights
+# Operational Insights
 
 ## Weekday Demand Dominates
 
@@ -211,7 +211,7 @@ during peak Monday operations.
 
 ---
 
-# 👥 Demographic Insights
+# Demographic Insights
 
 ## Gender Distribution
 
@@ -231,7 +231,7 @@ Maintain balanced healthcare services and awareness campaigns targeting both mal
 
 ---
 
-# 🏥 Referral Analysis
+# Referral Analysis
 
 ## Department Referrals
 
@@ -260,7 +260,7 @@ Improve:
 
 ---
 
-# 📅 Patient Visit Trends
+# Patient Visit Trends
 
 ## Seasonal Visit Patterns
 
@@ -283,7 +283,7 @@ Use seasonal trends for:
 
 ---
 
-# 🌎 Race & Age Group Analysis
+# Race & Age Group Analysis
 
 The dashboard heatmap highlights variations in average wait times across different race and age categories.
 
@@ -304,7 +304,7 @@ to ensure fair and consistent patient experiences.
 
 ---
 
-# 🚀 Strategic Recommendations
+# Strategic Recommendations
 
 ## Short-Term Actions
 
@@ -333,7 +333,7 @@ to ensure fair and consistent patient experiences.
 
 ---
 
-# 💡 Expected Business Benefits
+# Expected Business Benefits
 
 Implementing these recommendations can help achieve:
 
@@ -347,7 +347,7 @@ Implementing these recommendations can help achieve:
 
 ---
 
-# 🛠️ Tools Used
+# Tools Used
 
 - Power BI
 - DAX
@@ -358,7 +358,7 @@ Implementing these recommendations can help achieve:
 
 ---
 
-# 📚 Skills Demonstrated
+# Skills Demonstrated
 
 - Healthcare Analytics
 - Dashboard Design
@@ -371,7 +371,7 @@ Implementing these recommendations can help achieve:
 
 ---
 
-# 📄 Conclusion
+# Conclusion
 
 The Patient Health Care Dashboard reveals a healthcare facility with strong patient demand and balanced demographic coverage. However, opportunities exist to improve patient satisfaction, reduce waiting times, increase feedback participation, and strengthen referral networks.
 

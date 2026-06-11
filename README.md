@@ -8,15 +8,11 @@ The dashboard enables healthcare administrators and decision-makers to identify 
 
 ---
 
-## Dashboard Snapshot
+# Dashboard Snapshot
 
-### 🔹 Overview Dashboard
+## Overview Dashboard
 
-> Add your dashboard screenshot here
-
-```md
-![Overview Dashboard](images/patient-healthcare-dashboard.png)
-```
+![Overview Dashboard](./images/patient-healthcare-dashboard.png)
 
 ---
 
@@ -78,13 +74,10 @@ A consistently high patient volume indicates strong community trust and demand f
 | Infant | 226 |
 
 ### Insight
-
 Approximately **79% of all visits originate from adult patients**, making them the primary healthcare consumer group.
 
 ### Recommendation
-
 Focus healthcare programs on:
-
 - Preventive healthcare
 - Chronic disease management
 - Adult wellness programs
@@ -100,13 +93,10 @@ Focus healthcare programs on:
 | Referred | 41.41% |
 
 ### Insight
-
 The majority of patients enter the healthcare system through direct visits rather than referrals.
 
 ### Recommendation
-
 Strengthen referral partnerships with:
-
 - Clinics
 - Physicians
 - Community healthcare centers
@@ -116,21 +106,16 @@ Strengthen referral partnerships with:
 ## 4. Patient Satisfaction Requires Improvement
 
 ### Average Satisfaction Score
-
 **5.47 / 10**
 
 ### Additional Finding
-
 **75.10% of patients did not provide feedback.**
 
 ### Business Concern
-
 The low participation rate makes it difficult to accurately evaluate patient experiences.
 
 ### Recommendation
-
 Implement:
-
 - Digital feedback forms
 - SMS surveys
 - QR-code satisfaction surveys
@@ -141,23 +126,18 @@ Implement:
 ## 5. Average Waiting Time is High
 
 ### Average Wait Time
-
 **35.26 Minutes**
 
 ### Insight
-
 Patients spend over half an hour waiting before receiving services.
 
 ### Business Impact
-
 Long wait times may contribute to:
-
 - Lower patient satisfaction
 - Service complaints
 - Reduced patient retention
 
 ### Recommendation
-
 - Improve scheduling processes
 - Optimize staff allocation
 - Introduce queue management systems
@@ -174,18 +154,14 @@ Long wait times may contribute to:
 | Weekend | 28.67% |
 
 ### Insight
-
 Most healthcare visits occur during weekdays.
 
 ### Recommendation
-
 Increase staffing levels during weekday operations to reduce service bottlenecks.
 
 ---
 
 ## Monday Experiences Highest Traffic
-
-### Visits by Day
 
 | Day | Visits |
 |------|--------|
@@ -198,13 +174,10 @@ Increase staffing levels during weekday operations to reduce service bottlenecks
 | Friday | 1,260 |
 
 ### Insight
-
 Monday is the busiest day of the week.
 
 ### Recommendation
-
 Allocate additional:
-
 - Physicians
 - Nurses
 - Administrative staff
@@ -224,11 +197,9 @@ during peak Monday operations.
 | Unknown | 0.3% |
 
 ### Insight
-
 Patient visits are evenly distributed across genders.
 
 ### Recommendation
-
 Maintain balanced healthcare services and awareness campaigns targeting both male and female populations.
 
 ---
@@ -249,13 +220,10 @@ Maintain balanced healthcare services and awareness campaigns targeting both mal
 | Renal | 86 |
 
 ### Insight
-
 Most patients enter the healthcare system without departmental referrals.
 
 ### Recommendation
-
 Improve:
-
 - Internal referral workflows
 - Cross-department collaboration
 - Specialist referral awareness
@@ -267,17 +235,13 @@ Improve:
 ## Seasonal Visit Patterns
 
 ### Observation
-
 Patient visits increase significantly between **April and October**, reaching their highest levels around **August**.
 
 ### Lowest Activity
-
 February recorded the lowest patient activity.
 
 ### Recommendation
-
 Use seasonal trends for:
-
 - Workforce planning
 - Resource allocation
 - Leave scheduling
@@ -290,44 +254,32 @@ Use seasonal trends for:
 The dashboard heatmap highlights variations in average wait times across different race and age categories.
 
 ### Insight
-
 Certain demographic groups may experience longer waiting times than others.
 
 ### Recommendation
-
 Perform deeper investigations into:
-
 - Scheduling efficiency
 - Service accessibility
 - Department workloads
 - Healthcare equity indicators
-
-to ensure fair and consistent patient experiences.
 
 ---
 
 # Strategic Recommendations
 
 ## Short-Term Actions
-
 - Reduce average wait time below 30 minutes.
 - Increase patient feedback participation.
 - Improve staffing on high-volume days.
 - Implement appointment reminders.
 
----
-
 ## Medium-Term Actions
-
 - Strengthen referral partnerships.
 - Expand adult healthcare programs.
 - Improve resource planning using visit trends.
 - Establish departmental performance KPIs.
 
----
-
 ## Long-Term Actions
-
 - Implement predictive healthcare analytics.
 - Introduce AI-assisted scheduling.
 - Develop patient retention initiatives.
@@ -337,39 +289,37 @@ to ensure fair and consistent patient experiences.
 
 # Expected Business Benefits
 
-Implementing these recommendations can help achieve:
-
-- Improved patient satisfaction
-- Reduced waiting times
-- Better healthcare service quality
-- Increased operational efficiency
-- Enhanced patient retention
-- Improved healthcare accessibility
-- Data-driven decision-making
+- Improved patient satisfaction  
+- Reduced waiting times  
+- Better healthcare service quality  
+- Increased operational efficiency  
+- Enhanced patient retention  
+- Improved healthcare accessibility  
+- Data-driven decision-making  
 
 ---
 
 # Tools Used
 
-- Power BI
-- DAX
-- Data Modeling
-- Healthcare Analytics
-- Data Visualization
-- Business Intelligence
+- Power BI  
+- DAX  
+- Data Modeling  
+- Healthcare Analytics  
+- Data Visualization  
+- Business Intelligence  
 
 ---
 
 # Skills Demonstrated
 
-- Healthcare Analytics
-- Dashboard Design
-- KPI Development
-- Business Intelligence Reporting
-- Data Storytelling
-- Operational Analysis
-- Strategic Recommendations
-- Data-Driven Decision Making
+- Healthcare Analytics  
+- Dashboard Design  
+- KPI Development  
+- Business Intelligence Reporting  
+- Data Storytelling  
+- Operational Analysis  
+- Strategic Recommendations  
+- Data-Driven Decision Making  
 
 ---
 
@@ -381,6 +331,6 @@ By leveraging the insights generated from this dashboard, healthcare administrat
 
 ---
 
-**Author:** Joshua Paul  
+**Author:** Joshua Paul Sesay
 **Role:** Data Analyst | Business Intelligence Analyst  
 **Tools:** Power BI, SQL, Excel, DAX

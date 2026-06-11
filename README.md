@@ -13,7 +13,7 @@ The dashboard enables healthcare administrators and decision-makers to identify 
 > Add your dashboard screenshot here
 
 ```md
-![Patients Health Care Report Dashboard](images/patient-healthcare-dashboard.png)
+![Dashboard Snapshot](./images/patient-healthcare-dashboard.png)
 ```
 
 ---

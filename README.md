@@ -10,6 +10,8 @@ The dashboard enables healthcare administrators and decision-makers to identify 
 
 ## Dashboard Snapshot
 
+> Add your dashboard screenshot here
+
 ```md
 ![Dashboard Snapshot](./images/patient-healthcare-dashboard.png)
 ```

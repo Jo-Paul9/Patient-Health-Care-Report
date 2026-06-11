@@ -15,7 +15,7 @@ The dashboard enables healthcare administrators and decision-makers to identify 
 > Add your dashboard screenshot here
 
 ```md
-![Overview Dashboard](./images/patient-healthcare-dashboard.png)
+![Overview Dashboard](images/patient-healthcare-dashboard.png)
 ```
 
 ---
